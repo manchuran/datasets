@@ -1,0 +1,29 @@
+Citation Request:
+   This data set was obtained from the front page of Nairaland.
+   Cite manchuran, if using. Thanks
+
+1. Title: Nairaland Dataset
+
+2. Sources: 
+   -- Nairaland (www.nairaland.com)
+
+3. Past Usage:
+     -- None
+
+4. Relevant Information:
+     This data set was collected on 5 June 2020 from the front page of Nairaland.
+
+5. Number of Instances: varies
+
+6. Number of Attributes: 6 attributes
+
+7. Attribute Information:
+   1. linkID: link ID
+   2. user: User
+   3. postTime: Time of post
+   4. sex: Sex of user
+
+
+8. Missing Attribute Values: missing attributes represented as "?"
+
+9. Class Distribution: No classes

@@ -1,0 +1,32 @@
+Citation Request:
+   This data set was obtained from the front page of Nairaland.
+   It is one month of data with accompanying details on each topic.
+   Cite manchuran, if using. Thanks
+
+1. Title: Nairaland Dataset
+
+2. Sources: 
+   -- Nairaland (www.nairaland.com)
+
+3. Past Usage:
+     -- None
+
+4. Relevant Information:
+     This data set was collected on 5 June 2020 from the front page of Nairaland.
+
+5. Number of Instances: 1983
+
+6. Number of Attributes: 6 attributes
+
+7. Attribute Information:
+   1. linkID: link ID
+   2. link: url link
+   3. title: Frontpage Title
+   4. section: Section from Nairaland to which page belongs
+   5. author: Author who created thread on Nairaland
+   6. frontPageDate: Date article was posted on the front page
+   7. postedDate: Date article was created (or initally posted on Nairaland).
+
+8. Missing Attribute Values: None
+
+9. Class Distribution: No classes
